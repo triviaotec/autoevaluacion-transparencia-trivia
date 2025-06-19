@@ -1,3 +1,6 @@
+from pathlib import Path
+BASE = Path(__file__).resolve().parent
+
 # -*- coding: utf-8 -*-
 import streamlit as st
 import json
@@ -19,12 +22,12 @@ st.set_page_config(page_title="Autoevaluación Transparencia Activa", layout="wi
 
 def show_logo(logo_light="TRIVIA.png", logo_dark="TRIVIA_dark.png", width=180):
     try:
-        img_light = Image.open(logo_light)
+        img_light = Image.open(BASE / logo_light)
         buffered_light = BytesIO()
         img_light.save(buffered_light, format="PNG")
         img_str_light = base64.b64encode(buffered_light.getvalue()).decode()
 
-        img_dark = Image.open(logo_dark)
+        img_dark = Image.open(BASE / logo_dark)
         buffered_dark = BytesIO()
         img_dark.save(buffered_dark, format="PNG")
         img_str_dark = base64.b64encode(buffered_dark.getvalue()).decode()
