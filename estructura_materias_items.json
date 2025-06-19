@@ -1,0 +1,278 @@
+[
+  {
+    "ID": 1,
+    "Materia": "Actos y documentos publicados en el Diario Oficial",
+    "Peso Materia (%)": 0.04,
+    "Ítem": "Actos y documentos publicados en el Diario Oficial"
+  },
+  {
+    "ID": 2,
+    "Materia": "Potestades y Marco normativo",
+    "Peso Materia (%)": 0.04,
+    "Ítem": "Marco normativo"
+  },
+  {
+    "ID": 3,
+    "Materia": "Potestades y Marco normativo",
+    "Peso Materia (%)": 0.04,
+    "Ítem": "Potestades, competencias, responsabilidades, funciones, atribuciones y/o tareas del organismo respectivo."
+  },
+  {
+    "ID": 4,
+    "Materia": "Estructura orgánica y facultades",
+    "Peso Materia (%)": 0.04,
+    "Ítem": "Organigrama"
+  },
+  {
+    "ID": 5,
+    "Materia": "Estructura orgánica y facultades",
+    "Peso Materia (%)": 0.04,
+    "Ítem": "Facultades, funciones y atribuciones de cada una de sus unidades o dependencias internas"
+  },
+  {
+    "ID": 6,
+    "Materia": "Estructura orgánica y facultades",
+    "Peso Materia (%)": 0.04,
+    "Ítem": "Estructura Orgánica de Transparencia y Protección de Datos"
+  },
+  {
+    "ID": 7,
+    "Materia": "Personal y sus remuneraciones",
+    "Peso Materia (%)": 0.1,
+    "Ítem": "Información sobre escalas de remuneraciones"
+  },
+  {
+    "ID": 8,
+    "Materia": "Personal y sus remuneraciones",
+    "Peso Materia (%)": 0.1,
+    "Ítem": "Información del Personal a Contrata"
+  },
+  {
+    "ID": 9,
+    "Materia": "Personal y sus remuneraciones",
+    "Peso Materia (%)": 0.1,
+    "Ítem": "Información del Personal de Planta"
+  },
+  {
+    "ID": 10,
+    "Materia": "Personal y sus remuneraciones",
+    "Peso Materia (%)": 0.1,
+    "Ítem": "Información del Personal sujeto al Código del Trabajo"
+  },
+  {
+    "ID": 11,
+    "Materia": "Personal y sus remuneraciones",
+    "Peso Materia (%)": 0.1,
+    "Ítem": "Información relativa a las autoridades que ejerzan cargos de elección popular, o en virtud de otra forma de designación."
+  },
+  {
+    "ID": 12,
+    "Materia": "Personal y sus remuneraciones",
+    "Peso Materia (%)": 0.1,
+    "Ítem": "Personas naturales contratadas a honorarios"
+  },
+  {
+    "ID": 13,
+    "Materia": "Personal y sus remuneraciones",
+    "Peso Materia (%)": 0.1,
+    "Ítem": "Información estadística sobre bonificaciones"
+  },
+  {
+    "ID": 14,
+    "Materia": "Personal y sus remuneraciones",
+    "Peso Materia (%)": 0.1,
+    "Ítem": "Información General del Personal"
+  },
+  {
+    "ID": 15,
+    "Materia": "Adquisiciones públicas",
+    "Peso Materia (%)": 0.1,
+    "Ítem": "Contrataciones no sometidas al Sistema de Compras Públicas, relativas a bienes muebles o servicios"
+  },
+  {
+    "ID": 16,
+    "Materia": "Adquisiciones públicas",
+    "Peso Materia (%)": 0.1,
+    "Ítem": "Contrataciones no sometidas al Sistema de Compras Públicas, relativas a compras menores a 3 UTM"
+  },
+  {
+    "ID": 17,
+    "Materia": "Adquisiciones públicas",
+    "Peso Materia (%)": 0.1,
+    "Ítem": "Contrataciones relativas a bienes inmuebles"
+  },
+  {
+    "ID": 18,
+    "Materia": "Adquisiciones públicas",
+    "Peso Materia (%)": 0.1,
+    "Ítem": "Contratos que hubieren sido formalizados mediante la emisión de orden de compra"
+  },
+  {
+    "ID": 19,
+    "Materia": "Adquisiciones públicas",
+    "Peso Materia (%)": 0.1,
+    "Ítem": "Adquisiciones o contrataciones sometidas al Sistema de Compras Públicas"
+  },
+  {
+    "ID": 20,
+    "Materia": "Transferencias de fondos públicos",
+    "Peso Materia (%)": 0.1,
+    "Ítem": "Transferencias reguladas por la Ley 19.862"
+  },
+  {
+    "ID": 21,
+    "Materia": "Transferencias de fondos públicos",
+    "Peso Materia (%)": 0.1,
+    "Ítem": "Otras transferencias"
+  },
+  {
+    "ID": 22,
+    "Materia": "Actos y resoluciones con efectos sobre terceros",
+    "Peso Materia (%)": 0.1,
+    "Ítem": "Actos y resoluciones con efectos sobre terceros"
+  },
+  {
+    "ID": 23,
+    "Materia": "Trámites ante el organismo",
+    "Peso Materia (%)": 0.05,
+    "Ítem": "Otros trámites"
+  },
+  {
+    "ID": 24,
+    "Materia": "Trámites ante el organismo",
+    "Peso Materia (%)": 0.05,
+    "Ítem": "Trámites en ChileAtiende"
+  },
+  {
+    "ID": 25,
+    "Materia": "Programas de subsidios y beneficios",
+    "Peso Materia (%)": 0.1,
+    "Ítem": "Subsidios y beneficios propios"
+  },
+  {
+    "ID": 26,
+    "Materia": "Programas de subsidios y beneficios",
+    "Peso Materia (%)": 0.1,
+    "Ítem": "Nómina de beneficiarios"
+  },
+  {
+    "ID": 27,
+    "Materia": "Mecanismos de participación ciudadana",
+    "Peso Materia (%)": 0.05,
+    "Ítem": "Norma de participación ciudadana"
+  },
+  {
+    "ID": 28,
+    "Materia": "Mecanismos de participación ciudadana",
+    "Peso Materia (%)": 0.05,
+    "Ítem": "Mecanismos de participación ciudadana"
+  },
+  {
+    "ID": 29,
+    "Materia": "Mecanismos de participación ciudadana",
+    "Peso Materia (%)": 0.05,
+    "Ítem": "Consejos consultivos"
+  },
+  {
+    "ID": 30,
+    "Materia": "Mecanismos de participación ciudadana",
+    "Peso Materia (%)": 0.05,
+    "Ítem": "Mecanismos de participación ciudadana en ejecución"
+  },
+  {
+    "ID": 31,
+    "Materia": "Información presupuestaria",
+    "Peso Materia (%)": 0.1,
+    "Ítem": "Estado de situación financiera"
+  },
+  {
+    "ID": 32,
+    "Materia": "Información presupuestaria",
+    "Peso Materia (%)": 0.1,
+    "Ítem": "Gastos de representación, protocolo y ceremonial"
+  },
+  {
+    "ID": 33,
+    "Materia": "Información presupuestaria",
+    "Peso Materia (%)": 0.1,
+    "Ítem": "Modificaciones presupuestarias municipales"
+  },
+  {
+    "ID": 34,
+    "Materia": "Información presupuestaria",
+    "Peso Materia (%)": 0.1,
+    "Ítem": "Pasivos de la(s) corporación(es) municipal(es)"
+  },
+  {
+    "ID": 35,
+    "Materia": "Información presupuestaria",
+    "Peso Materia (%)": 0.1,
+    "Ítem": "Pasivos del municipio"
+  },
+  {
+    "ID": 36,
+    "Materia": "Información presupuestaria",
+    "Peso Materia (%)": 0.1,
+    "Ítem": "Presupuesto asignado municipal"
+  },
+  {
+    "ID": 37,
+    "Materia": "Información presupuestaria",
+    "Peso Materia (%)": 0.1,
+    "Ítem": "Ejecución presupuestaria municipal"
+  },
+  {
+    "ID": 38,
+    "Materia": "Auditorías al ejercicio presupuestario",
+    "Peso Materia (%)": 0.1,
+    "Ítem": "Auditorías al ejercicio presupuestario"
+  },
+  {
+    "ID": 39,
+    "Materia": "Vínculos con otras entidades",
+    "Peso Materia (%)": 0.04,
+    "Ítem": "Vínculos con otras entidades"
+  },
+  {
+    "ID": 40,
+    "Materia": "Antecedentes preparatorios PYME",
+    "Peso Materia (%)": 0.04,
+    "Ítem": "Antecedentes preparatorios PYME"
+  },
+  {
+    "ID": 41,
+    "Materia": "Informe anual SUBDERE",
+    "Peso Materia (%)": "Sólo registro de infracciones e incumplimiento; excluido del cálculo",
+    "Ítem": "Informe anual SUBDERE"
+  },
+  {
+    "ID": 42,
+    "Materia": "Índice de actos y documentos calificados como secretos o reservados",
+    "Peso Materia (%)": "Sólo registro de infracciones e incumplimiento; excluido del cálculo",
+    "Ítem": "Índice de actos y documentos calificados como secretos o reservados"
+  },
+  {
+    "ID": 43,
+    "Materia": "Costos directos de reproducción",
+    "Peso Materia (%)": "Sólo registro de infracciones e incumplimiento; excluido del cálculo",
+    "Ítem": "Costos directos de reproducción"
+  },
+  {
+    "ID": 44,
+    "Materia": "Sanciones impuestas en conformidad con el Título VI de la Ley de Transparencia",
+    "Peso Materia (%)": "Sólo registro de infracciones e incumplimiento; excluido del cálculo",
+    "Ítem": "Sanciones impuestas en conformidad con el Título VI de la Ley de Transparencia"
+  },
+  {
+    "ID": 45,
+    "Materia": "Publicidad de las obligaciones contenidas en la ley N°20.880",
+    "Peso Materia (%)": "Sólo registro de infracciones e incumplimiento; excluido del cálculo",
+    "Ítem": "Publicidad de las obligaciones contenidas en la ley N°20.880"
+  },
+  {
+    "ID": 46,
+    "Materia": "Publicidad de las obligaciones contenidas en la ley N°20.730",
+    "Peso Materia (%)": "Sólo registro de infracciones e incumplimiento; excluido del cálculo",
+    "Ítem": "Publicidad de las obligaciones contenidas en la ley N°20.730"
+  }
+]

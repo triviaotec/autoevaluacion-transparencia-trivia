@@ -1,0 +1,950 @@
+{
+  "Actos y documentos publicados en el Diario Oficial || Actos y documentos publicados en el Diario Oficial": [
+    {
+      "codigo": "IE1_M1_I1",
+      "texto": "Indica en todos los casos el año en que se realiza la publicación en la página de Transparencia Activa"
+    },
+    {
+      "codigo": "IE2_M1_I1",
+      "texto": "Indica en todos los casos el mes en que se realiza la publicación en la página de Transparencia Activa"
+    },
+    {
+      "codigo": "IE3_M1_I1",
+      "texto": "Indica en todos los casos el número de la norma."
+    },
+    {
+      "codigo": "IE4_M1_I1",
+      "texto": "Indica en todos los casos el tipo de norma (ejemplo: Ley, Decreto o Resolución)"
+    },
+    {
+      "codigo": "IE5_M1_I1",
+      "texto": "Indica en todos los casos la denominación de la norma."
+    },
+    {
+      "codigo": "IE6_M1_I1",
+      "texto": "Indica en todos los casos la fecha de la publicación en el Diario Oficial."
+    },
+    {
+      "codigo": "IE7_M1_I1",
+      "texto": "Indica en todos los casos la fecha de modificación o derogación, si corresponde."
+    },
+    {
+      "codigo": "IE8_M1_I1",
+      "texto": "Indica en todos los casos la fecha de promulgación de la norma."
+    },
+    {
+      "codigo": "IE9_M1_I1",
+      "texto": "La nómina de publicaciones en el Diario Oficial se encuentra ordenada cronológicamente (de la más nueva  la más antigua)."
+    },
+    {
+      "codigo": "IE10_M1_I1",
+      "texto": "Presenta en todos los casos el texto íntegro y actualizado del documento."
+    },
+    {
+      "codigo": "IE11_M1_I1",
+      "texto": "Presenta información desde la entrada en vigencia de la Ley de Transparencia."
+    },
+    {
+      "codigo": "IE12_M1_I1",
+      "texto": "Se informan únicamente los actos y documentos que hayan sido dictados por el propio sujeto obligado y publicados en el Diario Oficial"
+    },
+    {
+      "codigo": "IE13_M1_I1",
+      "texto": "Señala de forma expresa que posea actos y documentos publicados en el Diario Oficial."
+    }
+  ],
+  "Potestades y Marco normativo || Marco normativo": [
+    {
+      "codigo": "IE1_M35_I1",
+      "texto": "Indica año en que se realiza la publicación en la página de Transparencia Activa"
+    },
+    {
+      "codigo": "IE2_M35_I1",
+      "texto": "Indica en todos los casos el número de la norma"
+    },
+    {
+      "codigo": "IE3_M35_I1",
+      "texto": "Indica en todos los casos el Tipo de norma"
+    },
+    {
+      "codigo": "IE4_M35_I1",
+      "texto": "Indica en todos los casos la denominación de la norma"
+    },
+    {
+      "codigo": "IE5_M35_I1",
+      "texto": "Indica en todos los casos la fecha de promulgación de la norma."
+    },
+    {
+      "codigo": "IE6_M35_I1",
+      "texto": "Indica en todos los casos su fecha de publicación cuando haya sido publicada en el Diario Oficial."
+    },
+    {
+      "codigo": "IE7_M35_I1",
+      "texto": "Indica en todos los casos su fecha de última modificación registrada en ese texto, si la hubiere, o indicación de que el texto ha sido objeto de modificaciones."
+    },
+    {
+      "codigo": "IE8_M35_I1",
+      "texto": "Indica mes en que se realiza la publicación en la página de Transparencia Activa"
+    },
+    {
+      "codigo": "IE9_M35_I1",
+      "texto": "Las normas de la misma jerarquía se encuentran ordenadas cronológicamente"
+    },
+    {
+      "codigo": "IE10_M35_I1",
+      "texto": "Las otras normas se encuentran ordenadas jerárquicamente"
+    },
+    {
+      "codigo": "IE11_M35_I1",
+      "texto": "Presenta en todos los casos texto íntegro y actualizado de cada norma, añadiendo enlaces a versiones derogadas de los textos de la norma"
+    },
+    {
+      "codigo": "IE12_M35_I1",
+      "texto": "Publica las normas orgánicas del sujeto obligado primero."
+    },
+    {
+      "codigo": "IE13_M35_I1",
+      "texto": "Publica normas de aplicación general al sector público, debiendo publicar sólo aquellas que regulan específicamente al organismo"
+    }
+  ],
+  "Potestades y Marco normativo || Potestades, competencias, responsabilidades, funciones, atribuciones y/o tareas del organismo respectivo.": [
+    {
+      "codigo": "IE1_M36_I2",
+      "texto": "Indica en todos los casos el o los artículos de las normas que  establecen las potestades, competencias, responsabilidad, funciones, atribuciones  y/o tareas del organismo"
+    },
+    {
+      "codigo": "IE2_M36_I2",
+      "texto": "Indica en todos los casos la descripción de las potestades."
+    },
+    {
+      "codigo": "IE3_M36_I2",
+      "texto": "Informa las potestades en una planilla correspondiente"
+    },
+    {
+      "codigo": "IE4_M36_I2",
+      "texto": "Presenta en todos los casos el texto íntegro y actualizado que contenga la norma respectiva"
+    }
+  ],
+  "Estructura orgánica y facultades || Organigrama": [
+    {
+      "codigo": "IE0",
+      "texto": "Este ítem aún no tiene indicadores específicos definidos en el sistema."
+    }
+  ],
+  "Estructura orgánica y facultades || Facultades, funciones y atribuciones de cada una de sus unidades o dependencias internas": [
+    {
+      "codigo": "IE0",
+      "texto": "Este ítem aún no tiene indicadores específicos definidos en el sistema."
+    }
+  ],
+  "Estructura orgánica y facultades || Estructura Orgánica de Transparencia y Protección de Datos": [
+    {
+      "codigo": "IE0",
+      "texto": "Este ítem aún no tiene indicadores específicos definidos en el sistema."
+    }
+  ],
+  "Personal y sus remuneraciones || Información sobre escalas de remuneraciones": [
+    {
+      "codigo": "IE0",
+      "texto": "Este ítem aún no tiene indicadores específicos definidos en el sistema."
+    }
+  ],
+  "Personal y sus remuneraciones || Información del Personal a Contrata": [
+    {
+      "codigo": "IE0",
+      "texto": "Este ítem aún no tiene indicadores específicos definidos en el sistema."
+    }
+  ],
+  "Personal y sus remuneraciones || Información del Personal de Planta": [
+    {
+      "codigo": "IE0",
+      "texto": "Este ítem aún no tiene indicadores específicos definidos en el sistema."
+    }
+  ],
+  "Personal y sus remuneraciones || Información del Personal sujeto al Código del Trabajo": [
+    {
+      "codigo": "IE0",
+      "texto": "Este ítem aún no tiene indicadores específicos definidos en el sistema."
+    }
+  ],
+  "Personal y sus remuneraciones || Información relativa a las autoridades que ejerzan cargos de elección popular, o en virtud de otra forma de designación.": [
+    {
+      "codigo": "IE0",
+      "texto": "Este ítem aún no tiene indicadores específicos definidos en el sistema."
+    }
+  ],
+  "Personal y sus remuneraciones || Personas naturales contratadas a honorarios": [
+    {
+      "codigo": "IE0",
+      "texto": "Este ítem aún no tiene indicadores específicos definidos en el sistema."
+    }
+  ],
+  "Personal y sus remuneraciones || Información estadística sobre bonificaciones": [
+    {
+      "codigo": "IE0",
+      "texto": "Este ítem aún no tiene indicadores específicos definidos en el sistema."
+    }
+  ],
+  "Personal y sus remuneraciones || Información General del Personal": [
+    {
+      "codigo": "IE0",
+      "texto": "Este ítem aún no tiene indicadores específicos definidos en el sistema."
+    }
+  ],
+  "Adquisiciones públicas || Contrataciones no sometidas al Sistema de Compras Públicas, relativas a bienes muebles o servicios": [
+    {
+      "codigo": "IE0",
+      "texto": "Este ítem aún no tiene indicadores específicos definidos en el sistema."
+    }
+  ],
+  "Adquisiciones públicas || Contrataciones no sometidas al Sistema de Compras Públicas, relativas a compras menores a 3 UTM": [
+    {
+      "codigo": "IE0",
+      "texto": "Este ítem aún no tiene indicadores específicos definidos en el sistema."
+    }
+  ],
+  "Adquisiciones públicas || Contrataciones relativas a bienes inmuebles": [
+    {
+      "codigo": "IE0",
+      "texto": "Este ítem aún no tiene indicadores específicos definidos en el sistema."
+    }
+  ],
+  "Adquisiciones públicas || Contratos que hubieren sido formalizados mediante la emisión de orden de compra": [
+    {
+      "codigo": "IE0",
+      "texto": "Este ítem aún no tiene indicadores específicos definidos en el sistema."
+    }
+  ],
+  "Adquisiciones públicas || Adquisiciones o contrataciones sometidas al Sistema de Compras Públicas": [
+    {
+      "codigo": "IE0",
+      "texto": "Este ítem aún no tiene indicadores específicos definidos en el sistema."
+    }
+  ],
+  "Transferencias de fondos públicos || Transferencias reguladas por la Ley 19.862": [
+    {
+      "codigo": "IE0",
+      "texto": "Este ítem aún no tiene indicadores específicos definidos en el sistema."
+    }
+  ],
+  "Transferencias de fondos públicos || Otras transferencias": [
+    {
+      "codigo": "IE0",
+      "texto": "Este ítem aún no tiene indicadores específicos definidos en el sistema."
+    }
+  ],
+  "Actos y resoluciones con efectos sobre terceros || Actos y resoluciones con efectos sobre terceros": [
+    {
+      "codigo": "IE1_M2_I1",
+      "texto": "El acceso a los textos íntegros y actualizados de cada uno de los actos y resoluciones se encuentra disponible."
+    },
+    {
+      "codigo": "IE2_M2_I1",
+      "texto": "En enlace de cada materia deriva a una planilla con información de esa tipología"
+    },
+    {
+      "codigo": "IE3_M2_I1",
+      "texto": "Indica año al que corresponde la publicación."
+    },
+    {
+      "codigo": "IE4_M2_I1",
+      "texto": "Indica en todos los casos la fecha de publicación en el Diario Oficial o del medio, forma y fecha de publicidad."
+    },
+    {
+      "codigo": "IE5_M2_I1",
+      "texto": "Indica en todos los casos la fecha de última actualización (en caso de tener efectos generales) o indica expresamente que ha sido objeto de modificación"
+    },
+    {
+      "codigo": "IE6_M2_I1",
+      "texto": "Indica en todos los casos si el acto tiene efectos particulares o generales"
+    },
+    {
+      "codigo": "IE7_M2_I1",
+      "texto": "Indica en todos los casos una breve descripción del objeto del acto"
+    },
+    {
+      "codigo": "IE8_M2_I1",
+      "texto": "Indica mes al que corresponde la publicación."
+    },
+    {
+      "codigo": "IE9_M2_I1",
+      "texto": "Individualización del acto: indica en todos los casos el número del acto"
+    },
+    {
+      "codigo": "IE10_M2_I1",
+      "texto": "Individualización del acto: indica en todos los casos el tipo de acto "
+    },
+    {
+      "codigo": "IE11_M2_I1",
+      "texto": "Individualización del acto: indica en todos los casos la denominación del acto"
+    },
+    {
+      "codigo": "IE12_M2_I1",
+      "texto": "Individualización del acto: indica en todos los casos la fecha del acto"
+    },
+    {
+      "codigo": "IE13_M2_I1",
+      "texto": "La información Se presenta en orden cronológico, desde los más nuevos los más antiguos."
+    },
+    {
+      "codigo": "IE14_M2_I1",
+      "texto": "La información Se presenta separada por materias o segmentada por tipologías de actos y/o se utilizan categorías genéricas de actos administrativos, como: decretos, resoluciones, circulares, etc."
+    },
+    {
+      "codigo": "IE15_M2_I1",
+      "texto": "Presenta en todas las tipologías información desde la entrada en vigencia de la Ley de Transparencia"
+    },
+    {
+      "codigo": "IE16_M2_I1",
+      "texto": "Señala de forma expresa que durante el periodo otorgó dictó actos con efectos sobre terceros."
+    }
+  ],
+  "Trámites ante el organismo || Otros trámites": [
+    {
+      "codigo": "IE1_M43_I1",
+      "texto": "Cuenta en todos los casos con un enlace a mayor información sobre el servicio respectivo, y/o éste está operativo (sólo en los casos en que existe mayor información)"
+    },
+    {
+      "codigo": "IE2_M43_I1",
+      "texto": "Indica en todos los casos el lugar o lugares en que se puede solicitar el trámite o servicio"
+    },
+    {
+      "codigo": "IE3_M43_I1",
+      "texto": "Indica en todos los casos el nombre o denominación del servicio que se entrega"
+    },
+    {
+      "codigo": "IE4_M43_I1",
+      "texto": "Indica en todos los casos el valor del servicio, ya sea que éste tenga un costo o sea gratuito"
+    },
+    {
+      "codigo": "IE5_M43_I1",
+      "texto": "Indica en todos los casos los requisitos y antecedentes necesarios para acceder al servicio"
+    },
+    {
+      "codigo": "IE6_M43_I1",
+      "texto": "Indica en todos los casos los trámites y/o etapas contemplados para acceder al servicio"
+    },
+    {
+      "codigo": "IE7_M43_I1",
+      "texto": "Indica en todos los casos una breve descripción del servicio que se entrega"
+    },
+    {
+      "codigo": "IE8_M43_I1",
+      "texto": "Informa en todos los casos si es posible realizar en línea la solicitud de acceso al servicio y/o se incorpora el enlace al trámite o servicio respectivo"
+    },
+    {
+      "codigo": "IE9_M43_I1",
+      "texto": "Se publica la información de los trámites o servicios que presta el organismo mediante una planilla"
+    },
+    {
+      "codigo": "IE10_M43_I1",
+      "texto": "Señala de forma expresa que cuenta con otros trámites o que sus trámites son informados mediante ChileAtiende"
+    }
+  ],
+  "Trámites ante el organismo || Trámites en ChileAtiende": [
+    {
+      "codigo": "IE1_M44_I2",
+      "texto": "Enlace a Chile Atiende o el vínculo que lo reemplace, se encuentra disponible y/o éste dirige directamente a los trámites del organismo en dicho sitio"
+    },
+    {
+      "codigo": "IE2_M44_I2",
+      "texto": "Señala de forma expresa que Informa sus trámites mediante Chile Atiende"
+    }
+  ],
+  "Programas de subsidios y beneficios || Subsidios y beneficios propios": [
+    {
+      "codigo": "IE0",
+      "texto": "Este ítem aún no tiene indicadores específicos definidos en el sistema."
+    }
+  ],
+  "Programas de subsidios y beneficios || Nómina de beneficiarios": [
+    {
+      "codigo": "IE0",
+      "texto": "Este ítem aún no tiene indicadores específicos definidos en el sistema."
+    }
+  ],
+  "Mecanismos de participación ciudadana || Norma de participación ciudadana": [
+    {
+      "codigo": "IE1_M23_I1",
+      "texto": "En caso de existir una modificación al texto de la norma, indica expresamente la fecha de la última de esta (si la hubiere)"
+    }
+  ],
+  "Mecanismos de participación ciudadana || Mecanismos de participación ciudadana": [
+    {
+      "codigo": "IE1_M24_I2",
+      "texto": "Indica en todos los casos el nombre del mecanismo"
+    },
+    {
+      "codigo": "IE2_M24_I2",
+      "texto": "Indica en todos los casos los requisitos para participar en el mecanismo"
+    },
+    {
+      "codigo": "IE3_M24_I2",
+      "texto": "Indica en todos los casos una breve descripción del objeto del mecanismo"
+    },
+    {
+      "codigo": "IE4_M24_I2",
+      "texto": "Se presenta en todos los casos un enlace a información o acto que explique en detalle en qué consiste cada mecanismo"
+    },
+    {
+      "codigo": "IE5_M24_I2",
+      "texto": "Señala expresamente que el organismo cuenta con mecanismos de participación ciudadana"
+    }
+  ],
+  "Mecanismos de participación ciudadana || Consejos consultivos": [
+    {
+      "codigo": "IE1_M25_I3",
+      "texto": "Indica para todos los consejos consultivos el nombre de sus consejeros y consejeras"
+    },
+    {
+      "codigo": "IE2_M25_I3",
+      "texto": "Indica para todos los consejos consultivos el período de vigencia de cada uno de los integrantes del consejo consultivo, señalando la fecha de inicio y término de sus funciones"
+    },
+    {
+      "codigo": "IE3_M25_I3",
+      "texto": "Indica para todos los consejos consultivos la organización o institución a la que representa cada consejero o consejera, si corresponde"
+    },
+    {
+      "codigo": "IE4_M25_I3",
+      "texto": "Indica para todos los consejos consultivos la representación o calidades de sus integrantes, si corresponde (por ejemplo: presidente o presidenta, secretario o secretaria, etc.)"
+    },
+    {
+      "codigo": "IE5_M25_I3",
+      "texto": "Indica para todos los consejos consultivos su forma de integración"
+    },
+    {
+      "codigo": "IE6_M25_I3",
+      "texto": "Indica para todos los consejos consultivos su nombre"
+    },
+    {
+      "codigo": "IE7_M25_I3",
+      "texto": "Indica para todos los consejos consultivos una breve descripción de su objetivo"
+    },
+    {
+      "codigo": "IE8_M25_I3",
+      "texto": "Se presenta en todos los casos un enlace a información o acto que explique en detalle en qué consiste cada consejo consultivo"
+    },
+    {
+      "codigo": "IE9_M25_I3",
+      "texto": "Se presenta una planilla distinta por cada uno de los consejos consultivos que posee el organismo"
+    },
+    {
+      "codigo": "IE10_M25_I3",
+      "texto": "No se señala expresamente que existen consejos consultivos o uno o más de estos se encuentran vigentes"
+    }
+  ],
+  "Mecanismos de participación ciudadana || Mecanismos de participación ciudadana en ejecución": [
+    {
+      "codigo": "IE1_M26_I4",
+      "texto": "Indica para todos los mecanismos de participación ciudadana en ejecución el nombre"
+    },
+    {
+      "codigo": "IE2_M26_I4",
+      "texto": "Indica para todos los mecanismos de participación ciudadana en ejecución el propósito u objetivo"
+    },
+    {
+      "codigo": "IE3_M26_I4",
+      "texto": "Indica para todos los mecanismos de participación ciudadana en ejecución la fecha de inicio y de término"
+    },
+    {
+      "codigo": "IE4_M26_I4",
+      "texto": "Indica para todos los mecanismos de participación ciudadana en ejecución la fecha en la que se publicarán sus resultados, si corresponde"
+    },
+    {
+      "codigo": "IE5_M26_I4",
+      "texto": "Indica para todos los mecanismos de participación ciudadana en ejecución los requisitos o forma de participar"
+    },
+    {
+      "codigo": "IE6_M26_I4",
+      "texto": "Indica para todos los mecanismos de participación ciudadana en ejecución si es vinculante o no"
+    },
+    {
+      "codigo": "IE7_M26_I4",
+      "texto": "Se presenta en todos los casos un enlace al documento que contenga los resultados de los mecanismos de participación ciudadan en ejecución, cuando éstos estén disponibles (si los hubiere)"
+    },
+    {
+      "codigo": "IE8_M26_I4",
+      "texto": "Señala expresamente que el organismo cuenta con mecanismos de participación ciudadana en ejecución"
+    }
+  ],
+  "Información presupuestaria || Estado de situación financiera": [
+    {
+      "codigo": "IE1_M15_I1",
+      "texto": "Estados de situación financiera se encuentran disponibles"
+    },
+    {
+      "codigo": "IE2_M15_I1",
+      "texto": "Estados de situación financiera se encuentran desactualizados"
+    },
+    {
+      "codigo": "IE3_M15_I1",
+      "texto": "Estados de situación financiera se encuentran incompletos"
+    },
+    {
+      "codigo": "IE4_M15_I1",
+      "texto": "Señala de forma expresa que durante el periodo se cuenta con estados de situación financiera"
+    }
+  ],
+  "Información presupuestaria || Gastos de representación, protocolo y ceremonial": [
+    {
+      "codigo": "IE1_M16_I2",
+      "texto": "Indica en todos los casos el año al que corresponden los gastos de representación, protocolo y ceremonial"
+    },
+    {
+      "codigo": "IE2_M16_I2",
+      "texto": "Indica en todos los casos el mes al que corresponden los gastos de representación, protocolo y ceremonial"
+    },
+    {
+      "codigo": "IE3_M16_I2",
+      "texto": "Indica en todos los casos el monto "
+    },
+    {
+      "codigo": "IE4_M16_I2",
+      "texto": "Indica en todos los casos la unidad monetaria (Peso, dólar, UF, entre otras) "
+    },
+    {
+      "codigo": "IE5_M16_I2",
+      "texto": "Indica en todos los casos observaciones de ser necesario y procedente"
+    },
+    {
+      "codigo": "IE6_M16_I2",
+      "texto": "Indica en todos los casos una breve descripción "
+    },
+    {
+      "codigo": "IE7_M16_I2",
+      "texto": "Se presenta en todos los casos un enlace al documento en que conste el gasto (boleta, factura, orden de compra, u otro similar)"
+    },
+    {
+      "codigo": "IE8_M16_I2",
+      "texto": "Presenta en todos los casos una identificación del proveedor (nombre completo en el caso de personas naturales y razón social en el caso de personas jurídicas)"
+    },
+    {
+      "codigo": "IE9_M16_I2",
+      "texto": "Presenta una planilla con los gastos de representación, protocolo y ceremonial"
+    },
+    {
+      "codigo": "IE10_M16_I2",
+      "texto": "Señala expresamente que existen gastos de representación durante el periodo"
+    }
+  ],
+  "Información presupuestaria || Modificaciones presupuestarias municipales": [
+    {
+      "codigo": "IE1_M17_I3",
+      "texto": "Modificaciones presupuestarias se encuentran disponibles"
+    },
+    {
+      "codigo": "IE2_M17_I3",
+      "texto": "Modificaciones presupuestarias se encuentran desactualizadas"
+    },
+    {
+      "codigo": "IE3_M17_I3",
+      "texto": "Modificaciones presupuestarias se encuentran incompletas"
+    }
+  ],
+  "Información presupuestaria || Pasivos de la(s) corporación(es) municipal(es)": [
+    {
+      "codigo": "IE0",
+      "texto": "Este ítem aún no tiene indicadores específicos definidos en el sistema."
+    }
+  ],
+  "Información presupuestaria || Pasivos del municipio": [
+    {
+      "codigo": "IE1_M19_I5",
+      "texto": "Pasivos del municipio se encuentran disponibles"
+    },
+    {
+      "codigo": "IE2_M19_I5",
+      "texto": "Pasivos del municipio se encuentran desactualizados"
+    },
+    {
+      "codigo": "IE3_M19_I5",
+      "texto": "Pasivos del municipio se encuentran incompletos"
+    },
+    {
+      "codigo": "IE4_M19_I5",
+      "texto": "Señala de forma expresa que durante el periodo se cuenta con pasivos"
+    }
+  ],
+  "Información presupuestaria || Presupuesto asignado municipal": [
+    {
+      "codigo": "IE1_M20_I6",
+      "texto": "Presupuesto inicial de cada sector se encuentra disponible"
+    },
+    {
+      "codigo": "IE2_M20_I6",
+      "texto": "Presupuesto inicial de cada sector se encuentra actualizado"
+    },
+    {
+      "codigo": "IE3_M20_I6",
+      "texto": "Presupuesto inicial de cada sector se encuentra completo"
+    },
+    {
+      "codigo": "IE4_M20_I6",
+      "texto": "Señala de forma expresa que durante el periodo aun se ha asignado el presupuesto del año para cada sector"
+    }
+  ],
+  "Información presupuestaria || Ejecución presupuestaria municipal": [
+    {
+      "codigo": "IE1_M21_I7",
+      "texto": "Balance de comprobación y de saldos agregado de cada sector se encuentra disponible"
+    },
+    {
+      "codigo": "IE2_M21_I7",
+      "texto": "Balance de comprobación y de saldos agregado de cada sector se encuentra actualizado"
+    },
+    {
+      "codigo": "IE3_M21_I7",
+      "texto": "Balance de comprobación y de saldos agregado de cada sector se encuentra completo"
+    },
+    {
+      "codigo": "IE4_M21_I7",
+      "texto": "Balance de comprobación y de saldos desagregado de cada sector se encuentra disponible"
+    },
+    {
+      "codigo": "IE5_M21_I7",
+      "texto": "Balance de comprobación y de saldos desagregado de cada sector se encuentra actualizado"
+    },
+    {
+      "codigo": "IE6_M21_I7",
+      "texto": "Balance de comprobación y de saldos desagregado de cada sector se encuentra completo"
+    },
+    {
+      "codigo": "IE7_M21_I7",
+      "texto": "Informe analítico de variaciones de la deuda de cada sector se encuentra disponible"
+    },
+    {
+      "codigo": "IE8_M21_I7",
+      "texto": "Informe analítico de variaciones de la deuda de cada sector se encuentra actualizado"
+    },
+    {
+      "codigo": "IE9_M21_I7",
+      "texto": "Informe analítico de variaciones de la deuda de cada sector se encuentra completo"
+    },
+    {
+      "codigo": "IE10_M21_I7",
+      "texto": "Informe analítico de variaciones de la ejecución presupuestaria de cada sector se encuentra disponible"
+    },
+    {
+      "codigo": "IE11_M21_I7",
+      "texto": "Informe analítico de variaciones de la ejecución presupuestaria de cada sector se encuentra actualizado"
+    },
+    {
+      "codigo": "IE12_M21_I7",
+      "texto": "Informe analítico de variaciones de la ejecución presupuestaria de cada sector se encuentra completo"
+    },
+    {
+      "codigo": "IE13_M21_I7",
+      "texto": "Informe analítico de variaciones de la ejecución presupuestaria de iniciativas de inversión de cada sector se encuentra disponible"
+    },
+    {
+      "codigo": "IE14_M21_I7",
+      "texto": "Informe analítico de variaciones de la ejecución presupuestaria de iniciativas de inversión de cada sector se encuentra actualizado"
+    },
+    {
+      "codigo": "IE15_M21_I7",
+      "texto": "Informe analítico de variaciones de la ejecución presupuestaria de iniciativas de inversión de cada sector se encuentra completo"
+    },
+    {
+      "codigo": "IE16_M21_I7",
+      "texto": "Libro diario municipal de cada sector se encuentra disponible"
+    },
+    {
+      "codigo": "IE17_M21_I7",
+      "texto": "Libro diario municipal de cada sector se encuentra actualizado"
+    },
+    {
+      "codigo": "IE18_M21_I7",
+      "texto": "Libro diario municipal de cada sector se encuentra completo"
+    },
+    {
+      "codigo": "IE19_M21_I7",
+      "texto": "Señala de forma expresa que durante el periodo se cuenta con el informe analítico de variaciones de la deuda"
+    },
+    {
+      "codigo": "IE20_M21_I7",
+      "texto": "Señala de forma expresa que durante el periodo se cuenta con el informe analítico de variaciones de la ejecución presupuestaria"
+    },
+    {
+      "codigo": "IE21_M21_I7",
+      "texto": "Señala de forma expresa que durante el periodo se cuenta con el informe analítico de variaciones de la ejecución presupuestaria de iniciativas de inversión"
+    },
+    {
+      "codigo": "IE22_M21_I7",
+      "texto": "Señala de forma expresa que durante el periodo se cuenta con el libro diario municipal"
+    },
+    {
+      "codigo": "IE23_M21_I7",
+      "texto": "Señala de forma expresa que durante el periodo se cuenta con un balance de comprobación de saldo agregado"
+    },
+    {
+      "codigo": "IE24_M21_I7",
+      "texto": "Señala de forma expresa que durante el periodo se cuenta con un balance de comprobación de saldo desagregado"
+    }
+  ],
+  "Auditorías al ejercicio presupuestario || Auditorías al ejercicio presupuestario": [
+    {
+      "codigo": "IE1_M9_I1",
+      "texto": "Indica en todos los casos el año al que corresponde la publicación del informe de auditoría"
+    },
+    {
+      "codigo": "IE2_M9_I1",
+      "texto": "Indica en todos los casos el mes al que corresponde la publicación del informe de auditoría"
+    },
+    {
+      "codigo": "IE3_M9_I1",
+      "texto": "Indica en todos los casos el periodo auditado"
+    },
+    {
+      "codigo": "IE4_M9_I1",
+      "texto": "Indica en todos los casos el título de la auditoría"
+    },
+    {
+      "codigo": "IE5_M9_I1",
+      "texto": "Indica en todos los casos la descripción de la materia de la auditoría"
+    },
+    {
+      "codigo": "IE6_M9_I1",
+      "texto": "Indica en todos los casos la entidad que hizo la auditoría"
+    },
+    {
+      "codigo": "IE7_M9_I1",
+      "texto": "Indica en todos los casos la fecha de inicio y la fecha de término de la auditoría, o expresa que existe información al respecto"
+    },
+    {
+      "codigo": "IE8_M9_I1",
+      "texto": "Indica en todos los casos la fecha de publicación del informe de auditoría"
+    },
+    {
+      "codigo": "IE9_M9_I1",
+      "texto": "Presenta información desde la entrada en vigencia de la Ley de Transparencia"
+    },
+    {
+      "codigo": "IE10_M9_I1",
+      "texto": "Presenta una planilla las auditorías al ejercicio presupuestario"
+    },
+    {
+      "codigo": "IE11_M9_I1",
+      "texto": "Publica en todos los casos un enlace al texto íntegro de las aclaraciones"
+    },
+    {
+      "codigo": "IE12_M9_I1",
+      "texto": "Publica en todos los casos un enlace al texto íntegro del informe final "
+    },
+    {
+      "codigo": "IE13_M9_I1",
+      "texto": "Señala de forma expresa que durante el periodo se han efectuado auditorías al ejercicio presupuestario"
+    }
+  ],
+  "Vínculos con otras entidades || Vínculos con otras entidades": [
+    {
+      "codigo": "IE1_M47_I1",
+      "texto": "Indica en todos los casos el tipo de vínculo (participación, representación o intervención)"
+    },
+    {
+      "codigo": "IE2_M47_I1",
+      "texto": "Indica en todos los casos la entidad en la que participa"
+    },
+    {
+      "codigo": "IE3_M47_I1",
+      "texto": "Indica en todos los casos la fecha de inicio y la fecha de término del vínculo, salvo que el vínculo sea indefinido y lo indique expresamente"
+    },
+    {
+      "codigo": "IE4_M47_I1",
+      "texto": "No describe en todos los casos el vínculo"
+    },
+    {
+      "codigo": "IE5_M47_I1",
+      "texto": "Presenta en todos los casos un enlace que permita acceder directamente al texto de la norma o convenio que justifica el vínculo"
+    },
+    {
+      "codigo": "IE6_M47_I1",
+      "texto": "Señala de forma expresa que durante el periodo existen vínculos con otras entidades"
+    }
+  ],
+  "Antecedentes preparatorios PYME || Antecedentes preparatorios PYME": [
+    {
+      "codigo": "IE1_M8_I1",
+      "texto": "En formulario: indica en todos los casos la estimación simple del impacto social y económico que la norma jurídica general podrá producir en la Empresa de Menor Tamaño"
+    },
+    {
+      "codigo": "IE2_M8_I1",
+      "texto": "En formulario: indica en todos los casos los principales contenidos de la norma jurídica general que se propone, incluyendo una descripción del problema o situación original que motiva la implementación de la propuesta, los objetivos de la misma y los efectos"
+    },
+    {
+      "codigo": "IE3_M8_I1",
+      "texto": "En formulario: Informa en todos los casos sobre consultas voluntarias, efectuadas o previstas con instituciones públicas y privadas especializadas o con organizaciones representativas de Empresas de Menor Tamaño, incluyendo los resultados de la realización de tales consultas"
+    },
+    {
+      "codigo": "IE4_M8_I1",
+      "texto": "Indica en todos los casos efectos de la norma"
+    },
+    {
+      "codigo": "IE5_M8_I1",
+      "texto": "Indica en todos los casos el organismo que dicta la norma"
+    },
+    {
+      "codigo": "IE6_M8_I1",
+      "texto": "Indica en todos los casos el tipo de norma"
+    },
+    {
+      "codigo": "IE7_M8_I1",
+      "texto": "Indica en todos los casos la denominación titulo o nombre de la propuesta normativa"
+    },
+    {
+      "codigo": "IE8_M8_I1",
+      "texto": "Indica en todos los casos la fecha de publicación del formulario en el sitio web de Transparencia Activa"
+    },
+    {
+      "codigo": "IE9_M8_I1",
+      "texto": "Presenta en todos los casos un enlace a mayor información"
+    },
+    {
+      "codigo": "IE10_M8_I1",
+      "texto": "Presenta en todos los casos un enlace operativo al formulario de estimación de impacto regulatorio en empresas de menor tamaño"
+    },
+    {
+      "codigo": "IE11_M8_I1",
+      "texto": "Señala de forma expresa que durante el periodo existen antecedentes preparatorios PYME"
+    }
+  ],
+  "Informe anual SUBDERE || Informe anual SUBDERE": [
+    {
+      "codigo": "IE1_M22_I1",
+      "texto": "No excluye la información del escalafón de mérito vigente"
+    },
+    {
+      "codigo": "IE2_M22_I1",
+      "texto": "No identifica las fuentes de financiamiento de programas para la contratación de  personal a honorarios"
+    },
+    {
+      "codigo": "IE3_M22_I1",
+      "texto": "Informa sobre dotación incluyendo personal de planta y a contrata, honorarios a suma alzada pagados a personas naturales, honorarios asimilados a grado, jornales, remuneraciones reguladas por el Código del Trabajo, suplencias y reemplazos, personal a trato y/o alumnos en práctica"
+    },
+    {
+      "codigo": "IE4_M22_I1",
+      "texto": "No se indica fecha de remisión a la Subdere"
+    },
+    {
+      "codigo": "IE5_M22_I1",
+      "texto": "No se informan conceptos remuneratorios variables"
+    },
+    {
+      "codigo": "IE6_M22_I1",
+      "texto": "Se presenta la política de recursos humanos y gasto total en la contratación de personal."
+    },
+    {
+      "codigo": "IE7_M22_I1",
+      "texto": "Presenta antigüedad del personal, tanto en la respectiva municipalidad como en otros órganos de la Administración del Estado"
+    },
+    {
+      "codigo": "IE8_M22_I1",
+      "texto": "Presenta las modificaciones efectuadas a la planta de personal"
+    },
+    {
+      "codigo": "IE9_M22_I1",
+      "texto": "Señala de forma expresa que durante el periodo se ha remitido el Informe anual de la Ley N°20.922 a la Subdere"
+    }
+  ],
+  "Índice de actos y documentos calificados como secretos o reservados || Índice de actos y documentos calificados como secretos o reservados": [
+    {
+      "codigo": "IE1_M14_I1",
+      "texto": "Indica en todos los casos el fundamento legal y la causal de secreto o reserva"
+    },
+    {
+      "codigo": "IE2_M14_I1",
+      "texto": "Indica en todos los casos la fecha de notificación del acto o resolución denegatoria"
+    },
+    {
+      "codigo": "IE3_M14_I1",
+      "texto": "No identifica en todos los casos la parte del acto, documento o información declarado secreto o reservado, para el caso que la declaración sea parcial"
+    },
+    {
+      "codigo": "IE4_M14_I1",
+      "texto": "No individualiza en todos los casos los actos o resoluciones denegatorias que resuelvan los procedimientos administrativos de acceso a la información"
+    },
+    {
+      "codigo": "IE5_M14_I1",
+      "texto": "Presenta en todos los casos la denominación que singularice a los actos, documentos e informaciones declarados secretos o reservados"
+    },
+    {
+      "codigo": "IE6_M14_I1",
+      "texto": "Presenta en todos los casos un enlace operativo al acto o resolución en que consta tal calificación"
+    },
+    {
+      "codigo": "IE7_M14_I1",
+      "texto": "Señala de forma expresa que durante el periodo se han dictado actos secretos o reservados"
+    }
+  ],
+  "Costos directos de reproducción || Costos directos de reproducción": [
+    {
+      "codigo": "IE1_M10_I1",
+      "texto": "El enlace que contiene el acto administrativo que fija los costos de reproducción se encuentra operativo"
+    },
+    {
+      "codigo": "IE2_M10_I1",
+      "texto": "El enlace que contiene el acto administrativo que fija los costos de reproducción, deriva a un documento que se encuentra actualizado"
+    },
+    {
+      "codigo": "IE3_M10_I1",
+      "texto": "El enlace que contiene el acto administrativo que fija los costos de reproducción, deriva a un documento que se encuentra completo"
+    },
+    {
+      "codigo": "IE4_M10_I1",
+      "texto": "Señala de forma expresa que durante el periodo se ha dictado el decreto o resolución que fije los costos directos de reproducción"
+    }
+  ],
+  "Sanciones impuestas en conformidad con el Título VI de la Ley de Transparencia || Sanciones impuestas en conformidad con el Título VI de la Ley de Transparencia": [
+    {
+      "codigo": "IE1_M40_I1",
+      "texto": "La sección que contiene la(s) resolucion(es) emitida(s) por el Consejo para la Transparencia que, establezca(n) sanciones al Jefe o Jefa Superior y/o a los funcionarios o funcionarias del respectivo sujeto obligado por incumplimiento a la Ley de Trasparencia, se encuentra operativo"
+    },
+    {
+      "codigo": "IE2_M40_I1",
+      "texto": "La sección que contiene la(s) resolucion(es) emitida(s) por el Consejo para la Transparencia que, establezca(n) sanciones al Jefe o Jefa Superior y/o a los funcionarios o funcionarias del respectivo sujeto obligado por incumplimiento a la Ley de Trasparencia, se encuentra actualizado"
+    },
+    {
+      "codigo": "IE3_M40_I1",
+      "texto": "La sección que contiene la(s) resolucion(es) emitida(s) por el Consejo para la Transparencia que, establezca(n) sanciones al Jefe o Jefa Superior y/o a los funcionarios o funcionarias del respectivo sujeto obligado por incumplimiento a la Ley de Trasparencia,, se encuentra completo"
+    },
+    {
+      "codigo": "IE4_M40_I1",
+      "texto": "Señala de forma expresa que durante el periodo se han dictado sanciones impuestas en conformidad con el Título VI de la Ley de Transparencia"
+    }
+  ],
+  "Publicidad de las obligaciones contenidas en la ley N°20.880 || Publicidad de las obligaciones contenidas en la ley N°20.880": [
+    {
+      "codigo": "IE1_M39_I1",
+      "texto": "El enlace a la plataforma mediante la cual se da cumplimiento a las normas de publicidad contenidas en la ley N°20.880, sobre probidad en la función pública y prevención de los conflictos de interés, se encuentra operativo"
+    },
+    {
+      "codigo": "IE2_M39_I1",
+      "texto": "El enlace a la plataforma mediante la cual se da cumplimiento a las normas de publicidad contenidas en la ley N°20.880, sobre probidad en la función pública y prevención de los conflictos de interés, se encuentra actualizado"
+    },
+    {
+      "codigo": "IE3_M39_I1",
+      "texto": "El enlace a la plataforma mediante la cual se da cumplimiento a las normas de publicidad contenidas en la ley N°20.880, sobre probidad en la función pública y prevención de los conflictos de interés, se encuentra completo"
+    },
+    {
+      "codigo": "IE4_M39_I1",
+      "texto": "Señala de forma expresa que a los funcionarios que se desempeñan en el organismo realizan declaración de patrimonio e intereses"
+    }
+  ],
+  "Publicidad de las obligaciones contenidas en la ley N°20.730 || Publicidad de las obligaciones contenidas en la ley N°20.730": [
+    {
+      "codigo": "IE1_M38_I1",
+      "texto": "El enlace a la plataforma mediante la cual se da cumplimiento a las normas de publicidad contenidas en la ley N°20.730, que regula el lobby y las gestiones que representen intereses particulares ante las autoridades y funcionarios, se encuentra operativo"
+    },
+    {
+      "codigo": "IE2_M38_I1",
+      "texto": "El enlace a la plataforma mediante la cual se da cumplimiento a las normas de publicidad contenidas en la ley N°20.730, que regula el lobby y las gestiones que representen intereses particulares ante las autoridades y funcionarios, se encuentra completo"
+    },
+    {
+      "codigo": "IE3_M38_I1",
+      "texto": "El enlace a la plataforma mediante la cual se da cumplimiento a las normas de publicidad contenidas en la ley N°20.730, que regula el lobby y las gestiones que representen intereses particulares ante las autoridades y funcionarios, sobre probidad en la función pública y prevención de los conflictos de interés, se encuentra actualizado"
+    },
+    {
+      "codigo": "IE4_M38_I1",
+      "texto": "Señala de forma expresa que a los funcionarios que se desempeñan en el organismo les aplica las disposiciones de la Ley del Lobby"
+    }
+  ]
+}
